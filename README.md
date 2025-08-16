@@ -10,7 +10,7 @@ I built an interactive **dashboard** to uncover key insights and trends, helping
 
 
 ## 📂 Files Included
-- `Vrinda_Store_Sales.xlsx` → Data + Dashboard  
+- `Vrinda Store Data Analysis.xlsx` → Data + Dashboard  
 
 ---
 
